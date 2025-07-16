@@ -14,9 +14,9 @@
 
 <div align="center">
 
-<table>
+<table style="border: none; border-collapse: collapse; width: 100%;">
 <tr>
-<td align="center" width="40%" style="vertical-align: top;">
+<td align="center" style="vertical-align: top; border: none; padding: 20px;">
 
 **📱 Mobile Development**
 
@@ -25,7 +25,7 @@
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
 
 </td>
-<td align="center" width="40%" style="vertical-align: top;">
+<td align="center" style="vertical-align: top; border: none; padding: 20px;">
 
 **🌐 Web Development**
 
@@ -35,7 +35,7 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 
 </td>
-<td align="center" width="40%" style="vertical-align: top;">
+<td align="center" style="vertical-align: top; border: none; padding: 20px;">
 
 **⚡ Backend Development**
 
