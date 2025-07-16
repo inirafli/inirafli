@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hey+there!+I'm+Rafli+👋;Software+Engineer+%7C+Mobile+Engineer;Flutter+(Dart)+%26+Kotlin+Enthusiast;JavaScript+%26+Go+Explorer;Always+Learning+%26+Building!&font=Fira%20Code&center=true&width=480&height=48&color=fcba03&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
+  
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+there!+I'm+Rafli+👋;Software+Engineer+%7C+Mobile+Engineer;Flutter+(Dart)+%26+Kotlin+Enthusiast;JavaScript+%26+Go+Explorer;Always+Learning+%26+Building!&font=Fira%20Code&center=true&width=480&height=48&color=fcba03&vCenter=true&pause=1000&size=22)
+
 </div>
 
 <h3 align="center">Passionate Software Engineer | Mobile Engineer | Tech Enthusiast</h3>
@@ -10,44 +12,16 @@
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Tech Stack
 
-<div align="center">
+### 📱 Mobile Development
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 
-<table style="border: none; border-collapse: collapse; width: 100%;">
-<tr>
-<td align="center" style="vertical-align: top; border: none; padding: 20px;">
+### 🌐 Frontend Development
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-**📱 Mobile Development**
-
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" /><br>
-<img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" /><br>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-
-</td>
-<td align="center" style="vertical-align: top; border: none; padding: 20px;">
-
-**🌐 Web Development**
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /><br>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /><br>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-
-</td>
-<td align="center" style="vertical-align: top; border: none; padding: 20px;">
-
-**⚡ Backend Development**
-
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" /><br>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-
-</td>
-</tr>
-</table>
-
-</div>
+### ⚡ Backend Development
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 <br>
 
