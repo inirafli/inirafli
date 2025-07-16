@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hey+there!+I'm+Rafli+👋;Software+Engineer+%7C+Mobile+Engineer;Flutter (Dart)+%26+Kotlin+Enthusiast;JavaScript+%26+Go+Explorer;Always+Learning+%26+Building!&font=Fira%20Code&center=true&width=480&height=48&color=fcba03&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hey+there!+I'm+Rafli+👋;Software+Engineer+%7C+Mobile+Engineer;Flutter+(Dart)+%26+Kotlin+Enthusiast;JavaScript+%26+Go+Explorer;Always+Learning+%26+Building!&font=Fira%20Code&center=true&width=480&height=48&color=fcba03&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
 </div>
 
 <h3 align="center">Passionate Software Engineer | Mobile Engineer | Tech Enthusiast</h3>
@@ -16,7 +16,7 @@
 
 <table>
 <tr>
-<td align="center" width="30%" style="vertical-align: top;">
+<td align="center" width="40%" style="vertical-align: top;">
 
 **📱 Mobile Development**
 
@@ -25,7 +25,7 @@
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
 
 </td>
-<td align="center" width="30%" style="vertical-align: top;">
+<td align="center" width="40%" style="vertical-align: top;">
 
 **🌐 Web Development**
 
@@ -35,7 +35,7 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 
 </td>
-<td align="center" width="30%" style="vertical-align: top;">
+<td align="center" width="40%" style="vertical-align: top;">
 
 **⚡ Backend Development**
 
@@ -48,6 +48,8 @@
 </table>
 
 </div>
+
+<br>
 
 <div align="center">
   <h3>🔥 Language Statistics</h3>
